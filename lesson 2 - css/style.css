@@ -1,0 +1,26 @@
+Selector {
+    Property: value;
+}
+
+body {
+    background-image: url(backgroundimage.png);
+}
+h2 {
+    color: #AA4139;
+    text-align: center;
+    border: 5px solid #FFB0AA;
+    cursor: pointer;
+}
+
+p {
+    color: pink;
+}
+
+p {
+    color: green;
+}
+
+li {
+    list-style: none;
+    display: inline-block;
+}
